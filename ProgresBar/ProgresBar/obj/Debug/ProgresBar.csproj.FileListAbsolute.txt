@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\10-M\ProgresBar\ProgresBar\bin\Debug\ProgresBar.exe.config
+C:\Users\user\Desktop\10-M\ProgresBar\ProgresBar\bin\Debug\ProgresBar.exe
+C:\Users\user\Desktop\10-M\ProgresBar\ProgresBar\bin\Debug\ProgresBar.pdb
+C:\Users\user\Desktop\10-M\ProgresBar\ProgresBar\obj\Debug\ProgresBar.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\10-M\ProgresBar\ProgresBar\obj\Debug\ProgresBar.Form1.resources
+C:\Users\user\Desktop\10-M\ProgresBar\ProgresBar\obj\Debug\ProgresBar.Properties.Resources.resources
+C:\Users\user\Desktop\10-M\ProgresBar\ProgresBar\obj\Debug\ProgresBar.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\10-M\ProgresBar\ProgresBar\obj\Debug\ProgresBar.exe
+C:\Users\user\Desktop\10-M\ProgresBar\ProgresBar\obj\Debug\ProgresBar.pdb
